@@ -1,4 +1,4 @@
-# filter_time.sh
+#  [filter_time.sh](https://github.com/fpawel/bash/blob/master/ucs/filter_time.sh)
 
 ## 📊 Фильтрация логов по времени
 
